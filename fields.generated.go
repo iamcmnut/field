@@ -3,8 +3,8 @@ package field
 import (
 	"time"
 
-	"github.com/iamcmnut/quickfix"
 	"github.com/quickfixgo/enum"
+	"github.com/quickfixgo/quickfix"
 	"github.com/quickfixgo/tag"
 	"github.com/shopspring/decimal"
 )
