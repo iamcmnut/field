@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/quickfixgo/field?status.png)](https://godoc.org/github.com/quickfixgo/field)
+[![GoDoc](https://godoc.org/github.com/iamcmnut/field?status.png)](https://godoc.org/github.com/iamcmnut/field)
 
 Licensing
 ---------
